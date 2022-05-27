@@ -1,0 +1,48 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.Titulo-1{
+    font-family: 'Koulen', cursive;
+    font-size: 70px;
+    text-align: center;
+    background-image: url(../imagenes/Fondo.png);
+    color: white;
+    padding: 295px;
+}
+
+.Subtitulo-1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+}
+
+.Titulo-Secundario-1{
+    padding-top: 50px;
+    font-family: 'Koulen', cursive;
+    font-size: 40px;
+    text-align: center;
+}   
+
+.Definicion-1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    color: #373737 ;
+    text-align: center;
+    margin: 20px;
+}
+
+.hr{
+    color: black;
+    margin: 60px;
+}
+
+.Footer{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: #373737 ;
+}
